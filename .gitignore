@@ -1,0 +1,17 @@
+@"
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+Content/GeunjeongjeonComplex/
+Content/HeungnyemunComplex/
+Content/SinmumunComplex/
+Content/Soswaewon/
+Content/YeongchumunComplex/
+"@ | Out-File -Encoding ascii .gitignore
